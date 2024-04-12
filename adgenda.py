@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Required module for the Linux-based calendar utility for blind users
+#Required module for the full-featured Linux-based calendar utility for blind users with Grade2 braille support
 #Copyright Blazie Technologies LLC, All rights reserved
 #by Stephen Blazie
 
