@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #A simple Linux-based calendar utility for blind users (requires adgenda.py)
 #Copyright Blazie Technologies LLC., All rights reserved
-#Stephen Blazie
+#by Stephen Blazie
 
 import calendar, configparser, os, louis, time
 from BTSpeak import host, dialogs, script, adgenda, braille
