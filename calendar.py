@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#A simple Linux-based calendar utility for blind users (requires adgenda.py)
+#A full-featured Linux-based calendar utility for blind users with Grade2 braille support (requires adgenda.py)
 #Copyright Blazie Technologies LLC., All rights reserved
 #by Stephen Blazie
 
