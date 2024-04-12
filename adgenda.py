@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
+#Required module for the Linux-based calendar utility for blind users
 #Copyright Blazie Technologies LLC, All rights reserved
-#Stephen Blazie
+#by Stephen Blazie
 
 import os, re, json, configparser
 from BTSpeak import dialogs, host, script, braille
